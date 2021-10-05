@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/planetM-work/static/css/main.bbc01d94.chunk.css",
+    "main.js": "/planetM-work/static/js/main.f7415592.chunk.js",
+    "main.js.map": "/planetM-work/static/js/main.f7415592.chunk.js.map",
+    "runtime-main.js": "/planetM-work/static/js/runtime-main.14fe480b.js",
+    "runtime-main.js.map": "/planetM-work/static/js/runtime-main.14fe480b.js.map",
+    "static/js/2.bb598dab.chunk.js": "/planetM-work/static/js/2.bb598dab.chunk.js",
+    "static/js/2.bb598dab.chunk.js.map": "/planetM-work/static/js/2.bb598dab.chunk.js.map",
+    "index.html": "/planetM-work/index.html",
+    "precache-manifest.be12c70d1e5c941cae3941b70a12c013.js": "/planetM-work/precache-manifest.be12c70d1e5c941cae3941b70a12c013.js",
+    "service-worker.js": "/planetM-work/service-worker.js",
+    "static/css/main.bbc01d94.chunk.css.map": "/planetM-work/static/css/main.bbc01d94.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.14fe480b.js",
+    "static/js/2.bb598dab.chunk.js",
+    "static/css/main.bbc01d94.chunk.css",
+    "static/js/main.f7415592.chunk.js"
+  ]
+}
